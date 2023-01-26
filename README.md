@@ -6,9 +6,7 @@ Please cite the work below if using information form this repository:
 Corey Ford and Nick Bryan-Kinns. 2023. Towards a Reflection in Creative
 Experience Questionnaire. In *Proceedings of the 2023 CHI Conference on
 Human Factors in Computing Systems (CHI ’23), April 23–28, 2023, Hamburg,
-Germany.* ACM, New York, NY, USA, 16 pages. [https://doi.org/10.1145/
-3544548.3581077](https://doi.org/10.1145/
-3544548.3581077).
+Germany.* ACM, New York, NY, USA, 16 pages. https://doi.org/10.1145/3544548.3581077.
 
 ---
 
