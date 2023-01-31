@@ -1,7 +1,7 @@
 # Towards-RiCE
 Auxiliary materials for the paper "Towards a Reflection in Creative Experience Questionnaire".
 
-Please cite the work below if using information form this repository:
+Please cite the work below if using information from this repository:
 
 Corey Ford and Nick Bryan-Kinns. 2023. Towards a Reflection in Creative
 Experience Questionnaire. In *Proceedings of the 2023 CHI Conference on
